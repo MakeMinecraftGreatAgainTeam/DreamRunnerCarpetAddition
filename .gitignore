@@ -126,3 +126,9 @@ gradle-app.setting
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
 
+# fabric
+run/
+
+# java
+*.hprof
+*.jfr
